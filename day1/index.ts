@@ -1,5 +1,5 @@
-import { solvePartOne, solvePartTwo } from './solve'
-import { getInput } from '../utils/getInput'
+import { solvePartOne, solvePartTwo } from './solve.ts'
+import { getInput } from '../utils/getInput.ts'
 
 getInput('https://adventofcode.com/2025/day/1/input')
   .then((res: string) => {

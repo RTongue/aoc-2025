@@ -1,5 +1,5 @@
 import axios from 'axios';
-import Cookie from './cookie';
+import Cookie from './cookie.ts';
 import path from 'path'
 import fs from 'fs'
 
